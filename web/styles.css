@@ -36,3 +36,9 @@ input {
 img {
 	max-width: 300px;
 }
+
+.prt5Change{
+	max-width: 500px;
+	max-height: 300;
+	color: yellow;
+}
