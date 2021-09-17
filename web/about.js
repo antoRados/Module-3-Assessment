@@ -21,5 +21,3 @@ function mouseOverFunction() {
 }
 
 mouseOver.addEventListener('mouseover', mouseOverFunction)
-
-document.querySelector('color').addEventListener('click', alert('Favorite color is blue!'))
