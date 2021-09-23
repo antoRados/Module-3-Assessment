@@ -1,0 +1,21 @@
+    The web, to me, looks like a literal spider web.  Everything in the web realm is 
+interconnected through packet exchanges, and data transfer.  If you have a website 
+that requires user input, posting information somewhere, and receiving information
+back from a server you are using many different technologies working together to
+accomplish this.
+    If you look at a standard website, and assume that the back-end is on a remote
+server, you need to establish a connection to said server before you can receive
+or send any sort of data.  Once a connection is established you can send send data
+to the server, and then need to await a response.  The information you send or receive
+can be in many formats, JSON being one of those.  Your website code will need to address
+requesting data from the server, GET, sending data to the server or updating data, POST,
+or removing data, DELETE, your code needs to communicate.
+    Through these requests and replies we are able to let the user communicate with the
+web server and allow for information relay.  This can look like a user putting in their
+username, and password to check their online banking accounts.  It can look like a person
+filling out a job application which will transmit to the company all of the user's
+qualification.
+When you get a group of these websites communicating it starts to resemble a highway of
+data exchange.  While the web is vast and unique, it is all built on the infrastucture
+of the internet - which is esentially the framework that allows for communication among
+devices.
